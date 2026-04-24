@@ -1,4 +1,4 @@
-function taxtables (state,taxExempt) {
+function taxables (state,taxExempt) {
     if (state === "IA" && taxExempt === false) {
         return "is taxable";
     }
