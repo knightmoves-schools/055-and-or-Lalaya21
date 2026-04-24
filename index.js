@@ -4,7 +4,7 @@ function taxtables (state,taxExempt) {
     }
 }
 function isVehicle (hasWheels,canFLy,canSwim) {
-    if (hasWheels == true|| canSwim == true) { |
+    if (hasWheels == true|| canSwim == true) { 
         return "is vehicle";
     }
 }
