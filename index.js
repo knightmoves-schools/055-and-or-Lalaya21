@@ -1,5 +1,5 @@
 function taxables (state,taxExempt) {
-    if (state === "IA" && taxExempt === truedone2) {
+    if (state === "IA" && taxExempt === true) {
         return "is taxable";
     }
 }
